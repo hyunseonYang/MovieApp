@@ -1,6 +1,8 @@
 # MOVIE APP
 
-리액트를 이용한 간단한 영화앱.
+Simple movie app with React JS
+
+https://hyunseonyang.github.io/MovieApp/
 
 ---
 
